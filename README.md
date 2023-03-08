@@ -1,2 +1,2 @@
-# QA
-repositório para aulas de qualidade de teste
+# JavaScript
+repositório para aulas de JavaScript
